@@ -16,6 +16,6 @@ N/A
 ## Usage
 
 Click the generate button, then confirm the lenght and characters.
-Link for the webpage:
+Link for the webpage: https://drbubblez.github.io/password-gen/
 
 ## License
